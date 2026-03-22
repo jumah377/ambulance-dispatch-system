@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# IDE directories
+.idea/
+.vscode/
+
+# Build outputs
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Test coverage
+coverage/
+
+# Docker overrides
+docker-compose.override.yml
+
+# Temporary files
+*.tmp
+*.temp
